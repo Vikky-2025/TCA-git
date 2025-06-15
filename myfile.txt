@@ -11,3 +11,5 @@ new message
 added line
 
 branch test
+
+Change done in main branch
